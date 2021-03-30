@@ -5,19 +5,19 @@ share some scripts and libraries.
 
 ## Shell Scripts
 
-- [sh-ocrpdf]() : If you can't copy paste from a PDF, run this script
+- [sh-ocrpdf](sh-ocrpdf/) : If you can't copy paste from a PDF, run this script
   and problem solved. It uses OCR.
-- [sh-hp]() : Your scripts search programs using PATH, and search for
+- [sh-hp](sh-hp/) : Your scripts search programs using PATH, and search for
   your projects using `hp`. If you have an script `deploy-website` and
   a project `~/projects/website`, use `hp website` in your script to
   search it.
-- [sh-hreadme]() : Generate readmes.
-- [sh-hsh]() : Generate shell script bundles and execute them remotelly.
-- [sh-hclip]() : Manage clipboard and take screenshots from the terminal.
-- [sh-hpkg]() : Toolchain agnostic tar.gz based package manager.
-- [sh-hrun]() : Run programs in custom sysroots, execute C programs as scripts.
-- [sh-hssh-pipe]() : SSH tunnels to servers.
-- [sh-hsql]() : SQL client wrapper for common operations.
+- [sh-hreadme](sh-hreadme/) : Generate readmes.
+- [sh-hsh](sh-hsh/) : Generate shell script bundles and execute them remotelly.
+- [sh-hclip](sh-hclip/) : Manage clipboard and take screenshots from the terminal.
+- [sh-hpkg](sh-hpkg/) : Toolchain agnostic tar.gz based package manager.
+- [sh-hrun](sh-hrun/) : Run programs in custom sysroots, execute C programs as scripts.
+- [sh-hssh-pipe](sh-hssh-pipe/) : SSH tunnels to servers.
+- [sh-hsql](sh-hsql/) : SQL client wrapper for common operations.
 - [sh-hnav]() : A wrapper around web browsers to expose same flags.
 - [sh-hhttpd]() : A wrapper around minimalist HTTP servers. Good for testing.
 - [sh-hemacs]() : An script to configure GNU/Emacs editor.
