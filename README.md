@@ -5,19 +5,19 @@ share some scripts and libraries.
 
 ## Shell Scripts
 
-- [sh-ocrpdf](sh-ocrpdf/) : If you can't copy paste from a PDF, run this script
+- [sh-ocrpdf](https://github.com/openvirtus/sh-ocrpdf/) : If you can't copy paste from a PDF, run this script
   and problem solved. It uses OCR.
-- [sh-hp](sh-hp/) : Your scripts search programs using PATH, and search for
+- [sh-hp](https://github.com/openvirtus/sh-hp/) : Your scripts search programs using PATH, and search for
   your projects using `hp`. If you have an script `deploy-website` and
   a project `~/projects/website`, use `hp website` in your script to
   search it.
-- [sh-hreadme](sh-hreadme/) : Generate readmes.
-- [sh-hsh](sh-hsh/) : Generate shell script bundles and execute them remotelly.
-- [sh-hclip](sh-hclip/) : Manage clipboard and take screenshots from the terminal.
-- [sh-hpkg](sh-hpkg/) : Toolchain agnostic tar.gz based package manager.
-- [sh-hrun](sh-hrun/) : Run programs in custom sysroots, execute C programs as scripts.
-- [sh-hssh-pipe](sh-hssh-pipe/) : SSH tunnels to servers.
-- [sh-hsql](sh-hsql/) : SQL client wrapper for common operations.
+- [sh-hreadme](https://github.com/openvirtus/sh-hreadme/) : Generate readmes.
+- [sh-hsh](https://github.com/openvirtus/sh-hsh/) : Generate shell script bundles and execute them remotelly.
+- [sh-hclip](https://github.com/openvirtus/sh-hclip/) : Manage clipboard and take screenshots from the terminal.
+- [sh-hpkg](https://github.com/openvirtus/sh-hpkg/) : Toolchain agnostic tar.gz based package manager.
+- [sh-hrun](https://github.com/openvirtus/sh-hrun/) : Run programs in custom sysroots, execute C programs as scripts.
+- [sh-hssh-pipe](https://github.com/openvirtus/sh-hssh-pipe/) : SSH tunnels to servers.
+- [sh-hsql](https://github.com/openvirtus/sh-hsql/) : SQL client wrapper for common operations.
 - [sh-hnav]() : A wrapper around web browsers to expose same flags.
 - [sh-hhttpd]() : A wrapper around minimalist HTTP servers. Good for testing.
 - [sh-hemacs]() : An script to configure GNU/Emacs editor.
