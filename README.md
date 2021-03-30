@@ -39,6 +39,13 @@ share some scripts and libraries.
 - [sh-rig3](https://github.com/openvirtus/sh-rig3) : RiG (Random Identity generator) implemented in shell language.
 - [sh-hipfs](https://github.com/openvirtus/sh-hipfs) : An easy way for scripts to download needed files from IPFS. 
 - [sh-hxdg](https://github.com/openvirtus/sh-hxdg) : Assign mimes to programs and create links to "start menu".
+- [sh-cbuild](https://github.com/openvirtus/sh-cbuild) : Minimalist C project build tool.
+- [sh-hcfg](https://github.com/openvirtus/sh-hcfg) : Configuration reading script.
+- [sh-hhelp](https://github.com/openvirtus/sh-hhelp) : List little summary of your scripts.
+- [sh-hutil](https://github.com/openvirtus/sh-hutil) : Utility library to write SH programs.
+- [sh-shbuild](https://github.com/openvirtus/sh-shbuild) : Packaging mechanism for SH projects.
+- [sh-hmem](https://github.com/openvirtus/sh-hmem) : Take and access notes from the terminal.
+- [sh-hmachines](https://github.com/openvirtus/sh-hmachines) : Keep track of your machines.
 
 ## Minimalist C libraries.
 
