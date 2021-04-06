@@ -61,6 +61,9 @@ share some scripts and libraries.
 - [c-libmcmd](https://github.com/openvirtus/c-libmcmd) : CLI library.
 - [c-libmerr](https://github.com/openvirtus/c-libmerr) : Error reporting mechanism ideal for libraries. [Single .h]
 - [c-libudb](https://github.com/openvirtus/c-libudb) : Small key-value database based on GDBM to save C structures.
-- [c-libhtypes](https://github.com/openvirtus/c-libhtypes) : String based datatype library. Emails, passwords, monetary, ...
-- [c-kcgi-extra](https://github.com/openvirtus/c-kcgi-extra) : KCGI HTTP library's extra library.
-
+- [c-string-random](https://github.com/openvirtus/c-string-random) : Generate random strings in C. [Single .h]
+- [c-string-extra](https://github.com/openvirtus/c-string-extra) : trim.h
+- [c-string-email](https://github.com/openvirtus/c-string-email) : Email string related functions. [Single .h]
+- [c-string-password](https://github.com/openvirtus/c-string-password) : Password string related functions. [Single .h]
+- [c-ipc-sem](https://github.com/openvirtus/c-ipc-sem) : Semaphore wrapper c library. [Single .h]
+- [c-libucsv](https://github.com/openvirtus/c-libucsv) : Locked csv access library.
