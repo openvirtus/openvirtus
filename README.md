@@ -69,11 +69,6 @@ Read [developer guide](./developers.md) for style conventions.
 
 <ul>
 <li>
-<a href="https://openvirtus.github.io/pix/price_1ImofhCkfMxMLQCaA1xd0jom.svg">[QR]</a>
-<img height="20" style="max-height:1em;max-width:1em" src="https://openvirtus.github.io/pix/credit-card.svg">
-<a href="https://openvirtus.github.io/stripe.html?price=price_1ImofhCkfMxMLQCaA1xd0jom">Small cash donation $24 or 20&euro;</a>
-</li>
-<li>
 <a href="https://openvirtus.github.io/pix/1C1ZzDje7vHhF23mxqfcACE8QD4nqxywiV.svg">[QR]</a>
 <img height="20" style="max-height:1em;max-width:1em" src="https://openvirtus.github.io/pix/btc.svg">
 Bitcoin <code>1C1ZzDje7vHhF23mxqfcACE8QD4nqxywiV</code>
