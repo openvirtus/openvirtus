@@ -14,7 +14,6 @@ share some scripts and libraries.
 - [sh-hreadme](https://github.com/openvirtus/sh-hreadme/) : Generate readmes.
 - [sh-hsh](https://github.com/openvirtus/sh-hsh/) : Generate shell script bundles and execute them remotelly.
 - [sh-hclip](https://github.com/openvirtus/sh-hclip/) : Manage clipboard and take screenshots from the terminal.
-- [sh-hpkg](https://github.com/openvirtus/sh-hpkg/) : Toolchain agnostic tar.gz based package manager.
 - [sh-hrun](https://github.com/openvirtus/sh-hrun/) : Run programs in custom sysroots, execute C programs as scripts.
 - [sh-hssh-pipe](https://github.com/openvirtus/sh-hssh-pipe/) : SSH tunnels to servers.
 - [sh-hsql](https://github.com/openvirtus/sh-hsql/) : SQL client wrapper for common operations.
@@ -23,13 +22,10 @@ share some scripts and libraries.
 - [sh-hemacs](https://github.com/openvirtus/sh-hemacs) : An script to configure GNU/Emacs editor.
 - [sh-hprofile](https://github.com/openvirtus/sh-hprofile) : Interactive terminal environment configurator.
 - [sh-hformat](https://github.com/openvirtus/sh-hformat) : Pendrive formater script.
-- [sh-hiso](https://github.com/openvirtus/sh-hiso) : Operating system ISO and IMG handler.
-- [sh-hmd](https://github.com/openvirtus/sh-hmd) : Extract information from tables in md files.
 - [sh-hcapw](https://github.com/openvirtus/sh-hcapw) : Capture Wireshark captures in a remote server.
 - [sh-hburn](https://github.com/openvirtus/sh-hburn) : This script extracts the image and burns it to disk.
 - [sh-hcontact](https://github.com/openvirtus/sh-hcontact) : Manage your contacts from the terminal.
 - [sh-genh](https://github.com/openvirtus/sh-genh) : Generate header files from C source files.
-- [sh-hback](https://github.com/openvirtus/sh-hback) : Backup mechanism good to backup family photos and videos.
 - [sh-htrash](https://github.com/openvirtus/sh-htrash) : Move to trash from the terminal.
 - [sh-hbackup](https://github.com/openvirtus/sh-hbackup) : Backup mechanism.
 - [sh-hbackup-ssh](https://github.com/openvirtus/sh-hbackup-ssh) : Connect to a server using SSH and get backups.
@@ -51,7 +47,6 @@ share some scripts and libraries.
 
 - [c-libcfgrc](https://github.com/openvirtus/c-libcfgrc) : A single .h header SH language configuration file reader for the C language.
 - [c-asprintfa](https://github.com/openvirtus/c-asprintfa) : Sprintf to the stack.
-- [c-bprompt](https://github.com/openvirtus/c-bprompt) : Interactive input to a buffer.
 - [c-fexec](https://github.com/openvirtus/c-fexec) : Execute a command and wait for its output. Like popen with sane arguments separation.
 - [c-fopenread](https://github.com/openvirtus/c-fopenread) : Read a file to a buffer.
 - [c-ftemplate](https://github.com/openvirtus/c-ftemplate) : Simple C templating mechanism.
@@ -60,10 +55,33 @@ share some scripts and libraries.
 - [c-fembed](https://github.com/openvirtus/c-fembed) : Embed files in C programs and libraries.
 - [c-libmcmd](https://github.com/openvirtus/c-libmcmd) : CLI library.
 - [c-libmerr](https://github.com/openvirtus/c-libmerr) : Error reporting mechanism ideal for libraries. [Single .h]
-- [c-libudb](https://github.com/openvirtus/c-libudb) : Small key-value database based on GDBM to save C structures.
 - [c-string-random](https://github.com/openvirtus/c-string-random) : Generate random strings in C. [Single .h]
 - [c-string-extra](https://github.com/openvirtus/c-string-extra) : trim.h
 - [c-string-email](https://github.com/openvirtus/c-string-email) : Email string related functions. [Single .h]
 - [c-string-password](https://github.com/openvirtus/c-string-password) : Password string related functions. [Single .h]
 - [c-ipc-sem](https://github.com/openvirtus/c-ipc-sem) : Semaphore wrapper c library. [Single .h]
-- [c-libucsv](https://github.com/openvirtus/c-libucsv) : Locked csv access library.
+
+## Donations:
+
+<ul>
+<li>
+<a href="https://openvirtus.github.io/pix/price_1ImofhCkfMxMLQCaA1xd0jom.svg">[QR]</a>
+<img style="max-height:1em;max-width:1em" src="https://openvirtus.github.io/pix/credit-card.svg">
+<a href="https://openvirtus.github.io/stripe.html?price=price_1ImofhCkfMxMLQCaA1xd0jom">Small cash donation $24 or 20&euro;</a>
+</li>
+<li>
+<a href="https://openvirtus.github.io/pix/1C1ZzDje7vHhF23mxqfcACE8QD4nqxywiV.svg">[QR]</a>
+<img style="max-height:1em;max-width:1em" src="https://openvirtus.github.io/pix/btc.svg">
+Bitcoin <code>1C1ZzDje7vHhF23mxqfcACE8QD4nqxywiV</code>
+</li>
+<li>
+<a href="https://openvirtus.github.io/pix/bnb194ay2cy83jjp644hdz8vjgjxrj5nmmfkngfnul.svg">[QR]</a>
+<img style="max-height:1em;max-width:1em" src="https://openvirtus.github.io/pix/bnb.svg">
+Binance <code>bnb194ay2cy83jjp644hdz8vjgjxrj5nmmfkngfnul</code>
+</li>
+<li>
+<a href="https://openvirtus.github.io/pix/88JP1c94kDEbyddN4NGU574vwXHB6r3FqcFX9twmxBkGNSnf64c5wjE89YaRVUk7vBbdnecWSXJmRhFWUcLcXUTFJVddZti.svg">[QR]</a>
+<img style="max-height:1em;max-width:1em" src="https://openvirtus.github.io/pix/xmr.svg">
+Monero <code>88JP1c94kDEbyddN4NGU574vwXHB6r3FqcFX9twmxBkGNSnf64c5wjE89YaRVUk7vBbdnecWSXJmRhFWUcLcXUTFJVddZti</code>
+</li>
+</ul>
