@@ -3,6 +3,10 @@
 We are a group of engineers that work in the IT industry. We have decided to
 share some scripts and libraries.
 
+Feel free to adapt this scripts and libraries to your needs.
+
+Read [./developers.md](developer guide) for style conventions.
+
 ## Shell Scripts
 
 - [sh-ocrpdf](https://github.com/openvirtus/sh-ocrpdf/) : If you can't copy paste from a PDF, run this script
