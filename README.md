@@ -44,8 +44,7 @@ Read [developer guide](./developers.md) for style conventions.
 - [sh-hhelp](https://github.com/openvirtus/sh-hhelp) : List little summary of your scripts.
 - [sh-hutil](https://github.com/openvirtus/sh-hutil) : Utility library to write SH programs.
 - [sh-shbuild](https://github.com/openvirtus/sh-shbuild) : Packaging mechanism for SH projects.
-- [sh-hmem](https://github.com/openvirtus/sh-hmem) : Take and access notes from the terminal.
-- [sh-hmachines](https://github.com/openvirtus/sh-hmachines) : Keep track of your machines.
+- [sh-hdonation](https://github.com/openvirtus/sh-hdonation) : Create HTML donation button.
 
 ## Minimalist C libraries.
 
