@@ -5,7 +5,7 @@ share some scripts and libraries.
 
 Feel free to adapt this scripts and libraries to your needs.
 
-Read [./developers.md](developer guide) for style conventions.
+Read [developer guide](./developers.md) for style conventions.
 
 ## Shell Scripts
 
