@@ -66,22 +66,22 @@ share some scripts and libraries.
 <ul>
 <li>
 <a href="https://openvirtus.github.io/pix/price_1ImofhCkfMxMLQCaA1xd0jom.svg">[QR]</a>
-<img style="max-height:1em;max-width:1em" src="https://openvirtus.github.io/pix/credit-card.svg">
+<img height="20" style="max-height:1em;max-width:1em" src="https://openvirtus.github.io/pix/credit-card.svg">
 <a href="https://openvirtus.github.io/stripe.html?price=price_1ImofhCkfMxMLQCaA1xd0jom">Small cash donation $24 or 20&euro;</a>
 </li>
 <li>
 <a href="https://openvirtus.github.io/pix/1C1ZzDje7vHhF23mxqfcACE8QD4nqxywiV.svg">[QR]</a>
-<img style="max-height:1em;max-width:1em" src="https://openvirtus.github.io/pix/btc.svg">
+<img height="20" style="max-height:1em;max-width:1em" src="https://openvirtus.github.io/pix/btc.svg">
 Bitcoin <code>1C1ZzDje7vHhF23mxqfcACE8QD4nqxywiV</code>
 </li>
 <li>
 <a href="https://openvirtus.github.io/pix/bnb194ay2cy83jjp644hdz8vjgjxrj5nmmfkngfnul.svg">[QR]</a>
-<img style="max-height:1em;max-width:1em" src="https://openvirtus.github.io/pix/bnb.svg">
+<img height="20" style="max-height:1em;max-width:1em" src="https://openvirtus.github.io/pix/bnb.svg">
 Binance <code>bnb194ay2cy83jjp644hdz8vjgjxrj5nmmfkngfnul</code>
 </li>
 <li>
 <a href="https://openvirtus.github.io/pix/88JP1c94kDEbyddN4NGU574vwXHB6r3FqcFX9twmxBkGNSnf64c5wjE89YaRVUk7vBbdnecWSXJmRhFWUcLcXUTFJVddZti.svg">[QR]</a>
-<img style="max-height:1em;max-width:1em" src="https://openvirtus.github.io/pix/xmr.svg">
+<img height="20" style="max-height:1em;max-width:1em" src="https://openvirtus.github.io/pix/xmr.svg">
 Monero <code>88JP1c94kDEbyddN4NGU574vwXHB6r3FqcFX9twmxBkGNSnf64c5wjE89YaRVUk7vBbdnecWSXJmRhFWUcLcXUTFJVddZti</code>
 </li>
 </ul>
