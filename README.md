@@ -41,9 +41,7 @@ Read [developer guide](./developers.md) for style conventions.
 - [sh-hxdg](https://github.com/openvirtus/sh-hxdg) : Assign mimes to programs and create links to "start menu".
 - [sh-cbuild](https://github.com/openvirtus/sh-cbuild) : Minimalist C project build tool.
 - [sh-hcfg](https://github.com/openvirtus/sh-hcfg) : Configuration reading script.
-- [sh-hhelp](https://github.com/openvirtus/sh-hhelp) : List little summary of your scripts.
 - [sh-hutil](https://github.com/openvirtus/sh-hutil) : Utility library to write SH programs.
-- [sh-shbuild](https://github.com/openvirtus/sh-shbuild) : Packaging mechanism for SH projects.
 - [sh-hdonation](https://github.com/openvirtus/sh-hdonation) : Create HTML donation button.
 
 ## Minimalist C libraries.
