@@ -12,14 +12,12 @@ Read [developer guide](./developers.md) for style conventions.
 - [sh-ocrpdf](https://github.com/openvirtus/sh-ocrpdf/) : If you can't copy paste from a PDF, run this script
   and problem solved. It uses OCR.
 - [sh-hp](https://github.com/openvirtus/sh-hp/) : Your scripts search programs using PATH, and search for
-  your projects using `hp`. If you have an script `deploy-website` and
-  a project `~/projects/website`, use `hp website` in your script to
-  search it.
+  your projects using `hp`. If you have an script `deploy-website` and a project `~/projects/website`, use
+  `hp website` in your script to search it.
 - [sh-hreadme](https://github.com/openvirtus/sh-hreadme/) : Generate readmes.
 - [sh-hsh](https://github.com/openvirtus/sh-hsh/) : Generate shell script bundles and execute them remotelly.
 - [sh-hclip](https://github.com/openvirtus/sh-hclip/) : Manage clipboard and take screenshots from the terminal.
 - [sh-hrun](https://github.com/openvirtus/sh-hrun/) : Run programs in custom sysroots, execute C programs as scripts.
-- [sh-hssh-pipe](https://github.com/openvirtus/sh-hssh-pipe/) : SSH tunnels to servers.
 - [sh-hsql](https://github.com/openvirtus/sh-hsql/) : SQL client wrapper for common operations.
 - [sh-hnav](https://github.com/openvirtus/sh-hnav) : A wrapper around web browsers to expose same flags.
 - [sh-hhttpd](https://github.com/openvirtus/sh-hhttpd) : A wrapper around minimalist HTTP servers. Good for testing.
@@ -46,20 +44,23 @@ Read [developer guide](./developers.md) for style conventions.
 
 ## Minimalist C libraries.
 
-- [c-libcfgrc](https://github.com/openvirtus/c-libcfgrc) : A single .h header SH language configuration file reader for the C language.
 - [c-asprintfa](https://github.com/openvirtus/c-asprintfa) : Sprintf to the stack.
-- [c-fexec](https://github.com/openvirtus/c-fexec) : Execute a command and wait for its output. Like popen with sane arguments separation.
 - [c-fopenread](https://github.com/openvirtus/c-fopenread) : Read a file to a buffer.
+- [c-libmerr](https://github.com/openvirtus/c-libmerr) : Error reporting mechanism ideal for libraries. [Single .h]
+- [c-fgetpw](https://github.com/openvirtus/c-fgetpw) : Read password from the terminal.
 - [c-ftemplate](https://github.com/openvirtus/c-ftemplate) : Simple C templating mechanism.
-- [c-strcpy-escaped](https://github.com/openvirtus/c-strcpy-escaped) : Escape characters with a prefix when copying.
 - [c-libhlang](https://github.com/openvirtus/c-libhlang) : C internationalization library.
 - [c-fembed](https://github.com/openvirtus/c-fembed) : Embed files in C programs and libraries.
-- [c-libmcmd](https://github.com/openvirtus/c-libmcmd) : CLI library.
-- [c-libmerr](https://github.com/openvirtus/c-libmerr) : Error reporting mechanism ideal for libraries. [Single .h]
 - [c-string-random](https://github.com/openvirtus/c-string-random) : Generate random strings in C. [Single .h]
-- [c-string-extra](https://github.com/openvirtus/c-string-extra) : trim.h
-- [c-string-email](https://github.com/openvirtus/c-string-email) : Email string related functions. [Single .h]
+- [c-string-mapping](https://github.com/openvirtus/c-string-mapping) : C string mappings.
+- [c-libjdb](https://github.com/openvirtus/c-libjdb) : Simple JSON based database library.
+- [c-libhmail](https://github.com/openvirtus/c-libhmail) : Simple mail sending single header C library.
 - [c-string-password](https://github.com/openvirtus/c-string-password) : Password string related functions. [Single .h]
+- [c-string-email](https://github.com/openvirtus/c-string-email) : Email string related functions. [Single .h]
+- [c-string-extra](https://github.com/openvirtus/c-string-extra) : trim.h string/cstr.h string/nl.h
+- [c-libmcmd](https://github.com/openvirtus/c-libmcmd) : CLI library.
+- [c-libmidms](https://github.com/openvirtus/c-libmidms) : Simple identity manager and JSON signer.
+- [c-jansson-extra](https://github.com/openvirtus/c-jansson-extra) : Some extra jansson functions. [Single .h]
 - [c-ipc-sem](https://github.com/openvirtus/c-ipc-sem) : Semaphore wrapper c library. [Single .h]
 
 ## Donations:
