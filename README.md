@@ -11,35 +11,62 @@ Read [developer guide](./developers.md) for style conventions.
 
 - [sh-ocrpdf](https://github.com/openvirtus/sh-ocrpdf/) : If you can't copy paste from a PDF, run this script
   and problem solved. It uses OCR.
+- [sh-hformat](https://github.com/openvirtus/sh-hformat) : Pendrive formater script.
+- [sh-htabbed](https://github.com/openvirtus/sh-htabbed) : Run services in a window with tabs.
 - [sh-hp](https://github.com/openvirtus/sh-hp/) : Your scripts search programs using PATH, and search for
   your projects using `hp`. If you have an script `deploy-website` and a project `~/projects/website`, use
   `hp website` in your script to search it.
-- [sh-hreadme](https://github.com/openvirtus/sh-hreadme/) : Generate readmes.
 - [sh-hsh](https://github.com/openvirtus/sh-hsh/) : Generate shell script bundles and execute them remotelly.
-- [sh-hclip](https://github.com/openvirtus/sh-hclip/) : Manage clipboard and take screenshots from the terminal.
 - [sh-hrun](https://github.com/openvirtus/sh-hrun/) : Run programs in custom sysroots, execute C programs as scripts.
 - [sh-hsql](https://github.com/openvirtus/sh-hsql/) : SQL client wrapper for common operations.
 - [sh-hnav](https://github.com/openvirtus/sh-hnav) : A wrapper around web browsers to expose same flags.
 - [sh-hhttpd](https://github.com/openvirtus/sh-hhttpd) : A wrapper around minimalist HTTP servers. Good for testing.
 - [sh-hemacs](https://github.com/openvirtus/sh-hemacs) : An script to configure GNU/Emacs editor.
 - [sh-hprofile](https://github.com/openvirtus/sh-hprofile) : Interactive terminal environment configurator.
-- [sh-hformat](https://github.com/openvirtus/sh-hformat) : Pendrive formater script.
 - [sh-hcapw](https://github.com/openvirtus/sh-hcapw) : Capture Wireshark captures in a remote server.
 - [sh-hburn](https://github.com/openvirtus/sh-hburn) : This script extracts the image and burns it to disk.
-- [sh-hcontact](https://github.com/openvirtus/sh-hcontact) : Manage your contacts from the terminal.
-- [sh-genh](https://github.com/openvirtus/sh-genh) : Generate header files from C source files.
 - [sh-htrash](https://github.com/openvirtus/sh-htrash) : Move to trash from the terminal.
 - [sh-hbackup](https://github.com/openvirtus/sh-hbackup) : Backup mechanism.
 - [sh-hbackup-ssh](https://github.com/openvirtus/sh-hbackup-ssh) : Connect to a server using SSH and get backups.
 - [sh-hbackup-hsql](https://github.com/openvirtus/sh-hbackup-hsql) : Create backups of databases.
 - [sh-hmail](https://github.com/openvirtus/sh-hmail) : Mail configuration utility. (mailx, mail, msmtp, mbsync, mu, mu4e)
 - [sh-hdocker](https://github.com/openvirtus/sh-hdocker) : Docker helper commands.
-- [sh-rig3](https://github.com/openvirtus/sh-rig3) : RiG (Random Identity generator) implemented in shell language.
+- [sh-hutil](https://github.com/openvirtus/sh-hutil) : Utility library to write SH programs.
+- [sh-hcfg](https://github.com/openvirtus/sh-hcfg) : Configuration reading script.
+- [sh-hgencrt](https://github.com/openvirtus/sh-hgencrt) : SSL certificate managing system.
+- [sh-create](https://github.com/openvirtus/sh-create) : Template mechanism.
+- [sh-document](https://github.com/openvirtus/sh-document) : Paperwork managing toolchain.
+- [sh-hfile](https://github.com/openvirtus/sh-hfile) :
+- [sh-w](https://github.com/openvirtus/sh-w) : Store functions to later call in your shell.
+- [sh-xmenu](https://github.com/openvirtus/sh-xmenu) : An application menu implemented with dmenu.
+
+<!---
 - [sh-hipfs](https://github.com/openvirtus/sh-hipfs) : An easy way for scripts to download needed files from IPFS. 
 - [sh-hxdg](https://github.com/openvirtus/sh-hxdg) : Assign mimes to programs and create links to "start menu".
 - [sh-cbuild](https://github.com/openvirtus/sh-cbuild) : Minimalist C project build tool.
-- [sh-hcfg](https://github.com/openvirtus/sh-hcfg) : Configuration reading script.
-- [sh-hutil](https://github.com/openvirtus/sh-hutil) : Utility library to write SH programs.
+- [sh-hclip](https://github.com/openvirtus/sh-hclip/) : Manage clipboard and take screenshots from the terminal.
+
+
+
+
+sh-cbuild                           sh-htcl
+sh-hgit                             sh-hticker     sh-hinvoice
+sh-hapache                          sh-hipfs       sh-hvnc
+sh-harduino                         sh-hlicense    sh-hxdg
+sh-hmonero                          sh-ovdesk      sh-srv-debian
+sh-hbind9                           sh-hnft        sh-srv-freebsd
+sh-hburn                            sh-hopensmtpd  sh-srv-linux
+sh-hburn-pendrive-sysadmin-windows                 sh-srv-void
+                                    sh-hpamctl     sh-srv-www
+                                                   sh-ssh-sudoinit
+sh-hclip                            sh-hqemu
+sh-hclock5
+                                    sh-hremote     tcl-lotorius
+sh-hcookies                         sh-hrest       tcl-trest
+sh-hdev-android                     sh-hrpi-void   tcl-tstripe
+                                                   tcl-tticket                           
+
+--->
 
 ## Minimalist C libraries.
 
