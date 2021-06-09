@@ -39,34 +39,32 @@ Read [developer guide](./developers.md) for style conventions.
 - [sh-hfile](https://github.com/openvirtus/sh-hfile) :
 - [sh-w](https://github.com/openvirtus/sh-w) : Store functions to later call in your shell.
 - [sh-xmenu](https://github.com/openvirtus/sh-xmenu) : An application menu implemented with dmenu.
-
-<!---
-- [sh-hipfs](https://github.com/openvirtus/sh-hipfs) : An easy way for scripts to download needed files from IPFS. 
-- [sh-hxdg](https://github.com/openvirtus/sh-hxdg) : Assign mimes to programs and create links to "start menu".
 - [sh-cbuild](https://github.com/openvirtus/sh-cbuild) : Minimalist C project build tool.
-- [sh-hclip](https://github.com/openvirtus/sh-hclip/) : Manage clipboard and take screenshots from the terminal.
+- [sh-hcookies](https://github.com/openvirtus/sh-hcookies) : Extract cookies from firefox to wget.
+- [sh-hburn-pendrive-sysadmin-windows](https://github.com/openvirtus/sh-hburn-pendrive-sysadmin-windows) : 
+- [sh-ssh-sudoinit](https://github.com/openvirtus/sh-ssh-sudoinit) : Initial sudo setup in a server.
+- [sh-hqemu](https://github.com/openvirtus/sh-hqemu) : Qemu virtual machines.
+- [sh-hpamctl](https://github.com/openvirtus/sh-hpamctl) : Manage users and services using PAM.
+- [sh-srv-void](https://github.com/openvirtus/sh-srv-void) : Some script to administer Void Linux systems.
+- [sh-srv-freebsd](https://github.com/openvirtus/sh-srv-freebsd) : Some script to administer FreeBSD systems.
+- [sh-hrest](https://github.com/openvirtus/sh-hrest) : A wrapper around curl and jq.
+- [sh-hopensmtpd](https://github.com/openvirtus/sh-hopensmtpd) : OpenSMTPD daemon configuration tool.
+- [sh-hbind9](https://github.com/openvirtus/sh-hbind9) : BIND9 daemon configuration tool.
+- [sh-hapache](https://github.com/openvirtus/sh-hapache) : Apache daemon configuration tool.
+- [sh-hmonero](https://github.com/openvirtus/sh-hmonero) : Monero wallet and minining installation tools.
+- [sh-hgit](https://github.com/openvirtus/sh-hgit) : GIT utilities.
+- [sh-hvnc](https://github.com/openvirtus/sh-hvnc) : VNC launchers.
+- [sh-srv-www](https://github.com/openvirtus/sh-srv-www) : Tools to configure Wordpress etc.
+- [sh-hinvoice](https://github.com/openvirtus/sh-hinvoice) : Create invoices from the terminal.
+- [sh-hlicense](https://github.com/openvirtus/sh-hlicense) : Software license and readme generator.
+- [sh-hxdg](https://github.com/openvirtus/sh-hxdg) : Link uris to programs from the terminal.
 
+TCL
 
+- [sh-htcl](https://github.com/openvirtus/sh-htcl) : Utilities to manage Tcl/tk projects.
+- [tcl-trest]() :
+- [tcl-tstripe]() :
 
-
-sh-cbuild                           sh-htcl
-sh-hgit                             sh-hticker     sh-hinvoice
-sh-hapache                          sh-hipfs       sh-hvnc
-sh-harduino                         sh-hlicense    sh-hxdg
-sh-hmonero                          sh-ovdesk      sh-srv-debian
-sh-hbind9                           sh-hnft        sh-srv-freebsd
-sh-hburn                            sh-hopensmtpd  sh-srv-linux
-sh-hburn-pendrive-sysadmin-windows                 sh-srv-void
-                                    sh-hpamctl     sh-srv-www
-                                                   sh-ssh-sudoinit
-sh-hclip                            sh-hqemu
-sh-hclock5
-                                    sh-hremote     tcl-lotorius
-sh-hcookies                         sh-hrest       tcl-trest
-sh-hdev-android                     sh-hrpi-void   tcl-tstripe
-                                                   tcl-tticket                           
-
---->
 
 ## Minimalist C libraries.
 
