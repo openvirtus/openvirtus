@@ -75,27 +75,21 @@ TCL
 - [c-ftemplate](https://github.com/openvirtus/c-ftemplate) : Simple C templating mechanism. [Single .h]
 - [c-fembed](https://github.com/openvirtus/c-fembed) : Embed files in C programs and libraries. [Single .h]
 - [c-fexec](https://github.com/openvirtus/c-fexec) : A better option than popen. [Single .h]
-
 - [c-libjdb](https://github.com/openvirtus/c-libjdb) : Simple JSON based database library.
-
 - [c-string-random](https://github.com/openvirtus/c-string-random) : Generate random strings in C. [Single .h]
 - [c-string-mapping](https://github.com/openvirtus/c-string-mapping) : C string mappings. [Single .h]
 - [c-string-password](https://github.com/openvirtus/c-string-password) : Password string related functions. [Single .h]
 - [c-string-email](https://github.com/openvirtus/c-string-email) : Email string related functions. [Single .h]
 - [c-string-extra](https://github.com/openvirtus/c-string-extra) : string/trim.h string/cstr.h string/nl.h
 - [c-string-enum](https://github.com/openvirtus/c-string-enum) : Create named enumerations. [Single .h]
-
 - [c-balloc](https://github.com/openvirtus/c-balloc) : Like malloc but on a buffer. [Single .h]
-
 - [c-ipc-mq](https://github.com/openvirtus/c-ipc-mq) : A wrapper around SysV message queues. [Single .h]
 - [c-ipc-usock](https://github.com/openvirtus/c-ipc-usock) : Datagram Unix sockets. [Single .h]
 - [c-ipc-shm](https://github.com/openvirtus/c-ipc-shm) : Shared memory. [Single .h]
 - [c-ipc-sem](https://github.com/openvirtus/c-ipc-sem) : Semaphore wrapper c library. [Single .h]
-
 - [c-libcfgrc](https://github.com/openvirtus/c-libcfgrc) : Read configuration from a shell script. [Single .h]
 - [c-jansson-extra](https://github.com/openvirtus/c-jansson-extra) : Some extra jansson functions. [Single .h]
 - [c-stdio-extra](https://github.com/openvirtus/c-stdio-extra) : Extra stdio-like functions. errorf(). [Single .h]
-
 - [c-rig3](https://github.com/openvirtus/c-rig3) : Random Identity Generator Version 3.
 
 ## Donations:
