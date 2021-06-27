@@ -70,8 +70,7 @@ Read [developer guide](./developers.md) for style conventions.
 - [c-libjdb](https://github.com/openvirtus/c-libjdb) : Simple JSON based database library.
 - [c-string-random](https://github.com/openvirtus/c-string-random) : Generate random strings in C. [Single .h]
 - [c-string-mapping](https://github.com/openvirtus/c-string-mapping) : C string mappings. [Single .h]
-- [c-string-password](https://github.com/openvirtus/c-string-password) : Password string related functions. [Single .h]
-- [c-string-email](https://github.com/openvirtus/c-string-email) : Email string related functions. [Single .h]
+- [c-string-login](https://github.com/openvirtus/c-string-login) : Password/email verification. [Single .h]
 - [c-string-extra](https://github.com/openvirtus/c-string-extra) : string/trim.h string/cstr.h string/nl.h
 - [c-string-enum](https://github.com/openvirtus/c-string-enum) : Create named enumerations. [Single .h]
 - [c-balloc](https://github.com/openvirtus/c-balloc) : Like malloc but on a buffer. [Single .h]
