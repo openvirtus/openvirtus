@@ -11,53 +11,53 @@ Read [developer guide](./developers.md) for style conventions.
 
 - [sh-ocrpdf](https://github.com/openvirtus/sh-ocrpdf/) : If you can't copy paste from a PDF, run this script
   and problem solved. It uses OCR.
-- [sh-hformat](https://github.com/openvirtus/sh-hformat) : Pendrive formater script.
-- [sh-htabbed](https://github.com/openvirtus/sh-htabbed) : Run services in a window with tabs.
-- [sh-hp](https://github.com/openvirtus/sh-hp/) : Your scripts search programs using PATH, and search for
-  your projects using `hp`. If you have an script `deploy-website` and a project `~/projects/website`, use
-  `hp website` in your script to search it.
+- [sh-w](https://github.com/openvirtus/sh-w) : Store functions to later call in your shell.
+- [sh-lrun](https://github.com/openvirtus/sh-lrun) : Execute logging output to a temporary file.
+- [sh-hid](https://github.com/openvirtus/sh-hid) : Identity management system.
 - [sh-hsh](https://github.com/openvirtus/sh-hsh/) : Generate shell script bundles and execute them remotelly.
+- [sh-hfile](https://github.com/openvirtus/sh-hfile) : Publish and store files.
 - [sh-hrun](https://github.com/openvirtus/sh-hrun/) : Run programs in custom sysroots, execute C programs as scripts.
 - [sh-hsql](https://github.com/openvirtus/sh-hsql/) : SQL client wrapper for common operations.
 - [sh-hnav](https://github.com/openvirtus/sh-hnav) : A wrapper around web browsers to expose same flags.
 - [sh-hhttpd](https://github.com/openvirtus/sh-hhttpd) : A wrapper around minimalist HTTP servers. Good for testing.
 - [sh-hemacs](https://github.com/openvirtus/sh-hemacs) : An script to configure GNU/Emacs editor.
 - [sh-hprofile](https://github.com/openvirtus/sh-hprofile) : Interactive terminal environment configurator.
+- [sh-hformat](https://github.com/openvirtus/sh-hformat) : Pendrive formater script.
 - [sh-hcapw](https://github.com/openvirtus/sh-hcapw) : Capture Wireshark captures in a remote server.
 - [sh-hburn](https://github.com/openvirtus/sh-hburn) : This script extracts the image and burns it to disk.
+- [sh-hmonero](https://github.com/openvirtus/sh-hmonero) : Monero wallet and minining installation tools.
+- [sh-hvnc](https://github.com/openvirtus/sh-hvnc) : VNC launchers.
 - [sh-htrash](https://github.com/openvirtus/sh-htrash) : Move to trash from the terminal.
-- [sh-hbackup](https://github.com/openvirtus/sh-hbackup) : Backup mechanism.
-- [sh-hbackup-ssh](https://github.com/openvirtus/sh-hbackup-ssh) : Connect to a server using SSH and get backups.
-- [sh-hbackup-hsql](https://github.com/openvirtus/sh-hbackup-hsql) : Create backups of databases.
-- [sh-hmail](https://github.com/openvirtus/sh-hmail) : Mail configuration utility. (mailx, mail, msmtp, mbsync, mu, mu4e)
+- [sh-screenshot](https://github.com/openvirtus/sh-screenshot) : Take screenshots from the terminal.
+- [sh-hredis](https://github.com/openvirtus/sh-hredis) : Redis configuration utilities.
+- [sh-elfutils](https://github.com/openvirtus/sh-elfutils) : ELF executable file utilities.
+- [sh-hmail](https://github.com/openvirtus/sh-hmail) : Mail configuration utility. (mailx, mail, msmtp)
 - [sh-hdocker](https://github.com/openvirtus/sh-hdocker) : Docker helper commands.
-- [sh-hutil](https://github.com/openvirtus/sh-hutil) : Utility library to write SH programs.
+- [sh-hrest](https://github.com/openvirtus/sh-hrest) : A wrapper around curl and jq.
+- [sh-cp-with-sed](https://github.com/openvirtus/sh-cp-with-sed) : Copy files changing names with sed.
+- [sh-hxdg](https://github.com/openvirtus/sh-hxdg) : Link uris to programs from the terminal.
+- [sh-backup](https://github.com/openvirtus/sh-backup) : Create backups.
 - [sh-hcfg](https://github.com/openvirtus/sh-hcfg) : Configuration reading script.
-- [sh-hgencrt](https://github.com/openvirtus/sh-hgencrt) : SSL certificate managing system.
+- [sh-hutil](https://github.com/openvirtus/sh-hutil) : Utility library to write SH programs.
+- [sh-hqemu](https://github.com/openvirtus/sh-hqemu) : Qemu virtual machines.
+- [sh-hinvoice](https://github.com/openvirtus/sh-hinvoice) : Create invoices from the terminal.
+- [sh-xmenu](https://github.com/openvirtus/sh-xmenu) : An application menu implemented with dmenu.
 - [sh-create](https://github.com/openvirtus/sh-create) : Template mechanism.
 - [sh-document](https://github.com/openvirtus/sh-document) : Paperwork managing toolchain.
-- [sh-hfile](https://github.com/openvirtus/sh-hfile) :
-- [sh-w](https://github.com/openvirtus/sh-w) : Store functions to later call in your shell.
-- [sh-xmenu](https://github.com/openvirtus/sh-xmenu) : An application menu implemented with dmenu.
-- [sh-cbuild](https://github.com/openvirtus/sh-cbuild) : Minimalist C project build tool.
-- [sh-hcookies](https://github.com/openvirtus/sh-hcookies) : Extract cookies from firefox to wget.
-- [sh-hburn-pendrive-sysadmin-windows](https://github.com/openvirtus/sh-hburn-pendrive-sysadmin-windows) : 
 - [sh-ssh-sudoinit](https://github.com/openvirtus/sh-ssh-sudoinit) : Initial sudo setup in a server.
-- [sh-hqemu](https://github.com/openvirtus/sh-hqemu) : Qemu virtual machines.
-- [sh-hpamctl](https://github.com/openvirtus/sh-hpamctl) : Manage users and services using PAM.
-- [sh-srv-void](https://github.com/openvirtus/sh-srv-void) : Some script to administer Void Linux systems.
-- [sh-srv-freebsd](https://github.com/openvirtus/sh-srv-freebsd) : Some script to administer FreeBSD systems.
-- [sh-hrest](https://github.com/openvirtus/sh-hrest) : A wrapper around curl and jq.
-- [sh-hopensmtpd](https://github.com/openvirtus/sh-hopensmtpd) : OpenSMTPD daemon configuration tool.
-- [sh-hbind9](https://github.com/openvirtus/sh-hbind9) : BIND9 daemon configuration tool.
-- [sh-hapache](https://github.com/openvirtus/sh-hapache) : Apache daemon configuration tool.
-- [sh-hmonero](https://github.com/openvirtus/sh-hmonero) : Monero wallet and minining installation tools.
 - [sh-hgit](https://github.com/openvirtus/sh-hgit) : GIT utilities.
-- [sh-hvnc](https://github.com/openvirtus/sh-hvnc) : VNC launchers.
+- [sh-htabbed](https://github.com/openvirtus/sh-htabbed) : Run services in a window with tabs.
+- [sh-hapache](https://github.com/openvirtus/sh-hapache) : Apache daemon configuration tool.
+- [sh-hbind9](https://github.com/openvirtus/sh-hbind9) : BIND9 daemon configuration tool.
+- [sh-hopensmtpd](https://github.com/openvirtus/sh-hopensmtpd) : OpenSMTPD daemon configuration tool.
+- [sh-srv-void](https://github.com/openvirtus/sh-srv-void) : Some script to administer Void Linux systems.
+- [sh-hcookies](https://github.com/openvirtus/sh-hcookies) : Extract cookies from firefox to wget.
+- [sh-srv-freebsd](https://github.com/openvirtus/sh-srv-freebsd) : Some script to administer FreeBSD systems.
 - [sh-srv-www](https://github.com/openvirtus/sh-srv-www) : Tools to configure Wordpress etc.
-- [sh-hinvoice](https://github.com/openvirtus/sh-hinvoice) : Create invoices from the terminal.
-- [sh-hlicense](https://github.com/openvirtus/sh-hlicense) : Software license and readme generator.
-- [sh-hxdg](https://github.com/openvirtus/sh-hxdg) : Link uris to programs from the terminal.
+- [sh-hgencrt](https://github.com/openvirtus/sh-hgencrt) : SSL certificate managing system.
+- [sh-hpamctl](https://github.com/openvirtus/sh-hpamctl) : Manage users and services using PAM.
+- [sh-hlicense](https://github.com/openvirtus/sh-hlicense) : Change license headers of the source code.
+
 
 TCL
 
