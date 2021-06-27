@@ -58,14 +58,6 @@ Read [developer guide](./developers.md) for style conventions.
 - [sh-hpamctl](https://github.com/openvirtus/sh-hpamctl) : Manage users and services using PAM.
 - [sh-hlicense](https://github.com/openvirtus/sh-hlicense) : Change license headers of the source code.
 
-
-TCL
-
-- [sh-htcl](https://github.com/openvirtus/sh-htcl) : Utilities to manage Tcl/tk projects.
-- [tcl-trest]() :
-- [tcl-tstripe]() :
-
-
 ## Minimalist C libraries.
 
 - [c-asprintfa](https://github.com/openvirtus/c-asprintfa) : Sprintf to the stack. [Single .h]
