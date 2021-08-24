@@ -1,0 +1,11 @@
+- [c-asprintfa](https://github.com/openvirtus/c-asprintfa) : Sprintf to the stack. [Single .h]
+- [c-fopenread](https://github.com/openvirtus/c-fopenread) : Read a file to a buffer. [Single .h]
+- [c-errmsg](https://github.com/openvirtus/c-errmsg) : Error reporting mechanism ideal for libraries. [Single .h]
+- [c-fgetpw](https://github.com/openvirtus/c-fgetpw) : Read password from the terminal. [Single .h]
+- [c-ftemplate](https://github.com/openvirtus/c-ftemplate) : Simple C templating mechanism. [Single .h]
+- [c-balloc](https://github.com/openvirtus/c-balloc) : Like malloc but on a buffer. [Single .h]
+- [c-ipc-mq](https://github.com/openvirtus/c-ipc-mq) : A wrapper around SysV message queues. [Single .h]
+- [c-ipc-usock](https://github.com/openvirtus/c-ipc-usock) : Datagram Unix sockets. [Single .h]
+- [c-ipc-shm](https://github.com/openvirtus/c-ipc-shm) : Shared memory. [Single .h]
+- [c-ipc-sem](https://github.com/openvirtus/c-ipc-sem) : Semaphore wrapper c library. [Single .h]
+- [c-rig3](https://github.com/openvirtus/c-rig3) : Random Identity Generator Version 3.

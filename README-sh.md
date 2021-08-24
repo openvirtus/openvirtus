@@ -1,0 +1,19 @@
+- [sh-hutil](sh-hutil/) : Utility library to write SH programs.
+- [sh-ocrpdf](sh-ocrpdf/) : If you can't copy paste from a PDF, run this script
+  and problem solved. It uses OCR.
+- [sh-hsh](sh-hsh/) : Generate shell script bundles and execute them remotelly.
+- [sh-hrun](sh-hrun/) : Run programs in custom sysroots, execute C programs as scripts.
+- [sh-hsql](sh-hsql/) : SQL client wrapper for common operations.
+- [sh-hnav](sh-hnav/) : A wrapper around web browsers to expose same flags.
+- [sh-hformat](sh-hformat/) : Pendrive formater script.
+- [sh-hburn](sh-hburn/) : This script extracts the image and burns it to disk.
+- [sh-htrash](sh-htrash/) : Move to trash from the terminal.
+- [sh-screenshot](sh-screenshot/) : Take screenshots from the terminal.
+- [sh-elfutils](sh-elfutils/) : ELF executable file utilities.
+- [sh-hrest](sh-hrest/) : A wrapper around curl and jq.
+- [sh-cp-with-sed](sh-cp-with-sed/) : Copy files changing names with sed.
+- [sh-hxdg](sh-hxdg/) : Link uris to programs from the terminal.
+- [sh-backup](sh-backup/) : Create backups.
+- [sh-xmenu](sh-xmenu/) : An application menu implemented with dmenu.
+- [sh-create](sh-create/) : Template mechanism.
+- [sh-hcookies](sh-hcookies/) : Extract cookies from firefox to wget.
